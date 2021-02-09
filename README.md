@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Ilana</h1>
 <h3 align="center">I'm a Computer Science student at BGU</h3>
 
-- 🔭 I’m currently exploring **web development technologies like JavaScript and React.**
+- 🔭 I’m currently exploring **web development technologies and Data Science fundamentals.**
 
 - 🌱 I’m currently learning **everything**🤣
 
